@@ -1,0 +1,5 @@
+Account,Name,EC2,InstanceType,Min,Desired,Max,MixedInstancesPolicy
+123456789012,App-1,ec2,t3.small,0,1,0,
+123456789012,App-2,ec2,t3.medium,0,1,0,
+123456789012,App-3,ec2,t3.medium,0,1,0,
+123456789012,App-4-AutoScalingGroup-123456789012,ec2,t3.2xlarge,2,2,10,t3.2xlarge;t3.xlarge
