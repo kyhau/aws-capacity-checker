@@ -4,7 +4,7 @@ A simple script to retrieve EC2 compute capacity of an AWS account, output resul
 
 ## Demo
 
-[https://kyhau.github.io/aws-capacity-checker/html/ec2_capacity_table.html](https://kyhau.github.io/aws-capacity-checker/html/ec2_capacity_table.html).
+[https://kyhau.github.io/aws-capacity-checker/doc/ec2_capacity_table.html](https://kyhau.github.io/aws-capacity-checker/doc/ec2_capacity_table.html).
 
 ```
 # Create and activate virtualenv
